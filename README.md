@@ -1,3 +1,3 @@
 # job4j
-# Person restfull service
+The rest module.
 
